@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UpgradeAPIProj/UpgradeAPIProj.iml" filepath="$PROJECT_DIR$/UpgradeAPIProj/UpgradeAPIProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UpgradeGUIProj/UpgradeGUIProj.iml" filepath="$PROJECT_DIR$/UpgradeGUIProj/UpgradeGUIProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UpgradeTestChallenge.iml" filepath="$PROJECT_DIR$/.idea/UpgradeTestChallenge.iml" />
+    </modules>
+  </component>
+</project>
