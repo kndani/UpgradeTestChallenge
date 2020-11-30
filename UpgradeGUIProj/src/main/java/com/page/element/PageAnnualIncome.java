@@ -1,7 +1,6 @@
 package com.page.element;
 
 import com.object.DriverObject;
-import com.util.TestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
@@ -24,7 +23,4 @@ public class PageAnnualIncome extends DriverObject {
         return driver.findElement(By.xpath(CONTINUE_BUTTON));
     }
 
-    public WebElement contextHelpText(){
-        return driver.findElement(By.xpath(CONTEXT_HELP));
-    }
 }

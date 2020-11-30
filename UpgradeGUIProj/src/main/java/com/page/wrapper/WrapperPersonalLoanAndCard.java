@@ -3,7 +3,6 @@ package com.page.wrapper;
 import com.page.element.PageCommonElements;
 import com.page.element.PagePersonalLoanAndCard;
 import com.util.Helper;
-import org.testng.Assert;
 
 public class WrapperPersonalLoanAndCard extends PagePersonalLoanAndCard {
 

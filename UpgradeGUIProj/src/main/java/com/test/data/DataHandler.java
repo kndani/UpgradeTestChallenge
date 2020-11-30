@@ -13,7 +13,7 @@ public class DataHandler {
     public Object[][] setLoanApplicationData() {
         return new Object[][]
                 {
-                        {"2000", "Other", "Jenny", "Smith", "1801 Hwy 78 E, Jasper, AL, USA", "01/11/1990", "150000", "10000"}
+                        {"2000", "Other", "Jenny", "Smith", "1801 Hwy 78 E, Jasper, AL, USA", "01/11/1990", "150000", "5000"}
                 };
     }
 

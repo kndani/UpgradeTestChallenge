@@ -3,10 +3,8 @@ package com.test.testcases;
 import com.object.Constant;
 import com.page.wrapper.*;
 import com.test.data.DataHandler;
-import com.util.Helper;
 import com.util.TestBase;
 import org.testng.Assert;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class TC_CheckYourRate extends TestBase {

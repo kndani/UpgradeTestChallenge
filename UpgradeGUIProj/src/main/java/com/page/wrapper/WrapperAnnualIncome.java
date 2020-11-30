@@ -12,7 +12,6 @@ public class WrapperAnnualIncome extends PageAnnualIncome {
 
     public void typeInAdditionalAnnualIncome(String value){
         Helper.typeInField(additionalAnnualIncomeField(), value + Keys.TAB);
-//        Helper.waitForElementToInvisible(contextHelpText());
     }
 
     public WrapperUserCredential clickOnContinueButton() {

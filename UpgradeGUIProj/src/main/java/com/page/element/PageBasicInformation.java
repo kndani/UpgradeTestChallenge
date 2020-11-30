@@ -1,7 +1,6 @@
 package com.page.element;
 
 import com.object.DriverObject;
-import com.util.TestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
