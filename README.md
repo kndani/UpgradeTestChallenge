@@ -11,7 +11,7 @@ There is no external file dependency for test data but you will need to download
 run the GUI test, once you download the driver binary, pass the path in TestNG xml suite file RunTest.xml for `driverPath` parameter
 `<parameter name="driverPath" value=UPDATE_THE_DRIVER_PATH> /> ` test is configure to use only firefox browser.
 
-##Test Scenarios
+## Test Scenarios
 UpgradeGUIProj covers scenarios for given user story and field validation for Loan Requirement and Basic Information forms, there can be covered multiple scenarios but due to time limit other scenarios are not covered
 
 UpgradeAPIProj covers login scenarios and also added few addition validation scenarios, one of the validation is failing when username and password is sent blank.
